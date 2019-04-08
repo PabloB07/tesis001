@@ -27,3 +27,4 @@ Por consiguiente, Chile Compra se fundó el 29 de Agosto del 2003, en el context
 ## qué cambio de paradigma representó.
 # Antecedentes sobre la ineficacia en las compras públicas
 # Hacer el link de lo anterior con la Subsecretaría de Educación. Describir a la subsecretaría, qué hace, en qué se enfoca, cuál es su misión.
+
